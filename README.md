@@ -1,10 +1,7 @@
 # travel
 Aplikasi Pemesanan Tiket Travel Berbasis Web PHP
 
-Aplikasi Pemesanan Tiket Travel Berbasis Web PHP menggunakan PHP Javascrpt dan Bootstrap Admin LTE, dikerjakan berkelompok .
-Lihat kelompok https://lubnaabidah.github.io/team2travel.net/.
-
-
+Aplikasi Pemesanan Tiket Travel Berbasis Web PHP menggunakan PHP Javascrpt dan Bootstrap Admin LTE, 
 #Install
 
 unduh dan ekstrak ke localhost
